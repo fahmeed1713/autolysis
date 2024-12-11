@@ -1,3 +1,14 @@
+# /// script
+# dependencies = [
+#   "httpx",
+#   "pandas",
+#   "seaborn",
+#   "scipy",
+#   "matplotlib",
+#   "numpy",
+#   "tabulate",
+# ]
+# ///
 import os
 import pandas as pd
 import seaborn as sns
